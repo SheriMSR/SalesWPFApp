@@ -1,0 +1,15 @@
+C:\Users\MyTDV\source\repos\Ass01Solution_SE151417\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+C:\Users\MyTDV\source\repos\Ass01Solution_SE151417\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.json
+C:\Users\MyTDV\source\repos\Ass01Solution_SE151417\BusinessObject\bin\Debug\net5.0\BusinessObject.runtimeconfig.dev.json
+C:\Users\MyTDV\source\repos\Ass01Solution_SE151417\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\MyTDV\source\repos\Ass01Solution_SE151417\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\MyTDV\source\repos\Ass01Solution_SE151417\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\MyTDV\source\repos\Ass01Solution_SE151417\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyTDV\source\repos\Ass01Solution_SE151417\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\MyTDV\source\repos\Ass01Solution_SE151417\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+C:\Users\MyTDV\source\repos\Ass01Solution_SE151417\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\MyTDV\source\repos\Ass01Solution_SE151417\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+C:\Users\MyTDV\source\repos\Ass01Solution_SE151417\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+C:\Users\MyTDV\source\repos\Ass01Solution_SE151417\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+C:\Users\MyTDV\source\repos\Ass01Solution_SE151417\BusinessObject\obj\Debug\net5.0\BusinessObject.genruntimeconfig.cache
+C:\Users\MyTDV\source\repos\Ass01Solution_SE151417\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
