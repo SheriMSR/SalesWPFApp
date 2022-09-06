@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MyTDV\\source\\repos\\SalesWPFApp\\Ass01Solution_SE151417\\SalesWPFApp\\SalesWPFApp.csproj": {}
+    "C:\\Users\\MyTDV\\Source\\Repos\\SalesWPFApp\\Ass01Solution_SE151417\\SalesWPFApp\\SalesWPFApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MyTDV\\source\\repos\\SalesWPFApp\\Ass01Solution_SE151417\\SalesWPFApp\\SalesWPFApp.csproj": {
+    "C:\\Users\\MyTDV\\Source\\Repos\\SalesWPFApp\\Ass01Solution_SE151417\\SalesWPFApp\\SalesWPFApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MyTDV\\source\\repos\\SalesWPFApp\\Ass01Solution_SE151417\\SalesWPFApp\\SalesWPFApp.csproj",
+        "projectUniqueName": "C:\\Users\\MyTDV\\Source\\Repos\\SalesWPFApp\\Ass01Solution_SE151417\\SalesWPFApp\\SalesWPFApp.csproj",
         "projectName": "SalesWPFApp",
-        "projectPath": "C:\\Users\\MyTDV\\source\\repos\\SalesWPFApp\\Ass01Solution_SE151417\\SalesWPFApp\\SalesWPFApp.csproj",
+        "projectPath": "C:\\Users\\MyTDV\\Source\\Repos\\SalesWPFApp\\Ass01Solution_SE151417\\SalesWPFApp\\SalesWPFApp.csproj",
         "packagesPath": "C:\\Users\\MyTDV\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\MyTDV\\source\\repos\\SalesWPFApp\\Ass01Solution_SE151417\\SalesWPFApp\\obj\\",
         "projectStyle": "PackageReference",
