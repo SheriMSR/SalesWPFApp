@@ -1,4 +1,4 @@
-﻿using DataAccess.DataAccess;
+﻿using BusinessObject.Entity;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BusinessObject.DAO
+namespace DataAccess.DAO
 {
     public class MemberDAO
     {
