@@ -7304,9 +7304,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MyTDV\\Source\\Repos\\SalesWPFApp\\Ass01Solution_SE151417\\BusinessObject\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\MyTDV\\source\\repos\\SalesWPFApp\\Ass01Solution_SE151417\\BusinessObject\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\MyTDV\\Source\\Repos\\SalesWPFApp\\Ass01Solution_SE151417\\BusinessObject\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\MyTDV\\source\\repos\\SalesWPFApp\\Ass01Solution_SE151417\\BusinessObject\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\MyTDV\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\MyTDV\\Source\\Repos\\SalesWPFApp\\Ass01Solution_SE151417\\BusinessObject\\obj\\",
       "projectStyle": "PackageReference",
@@ -7329,8 +7329,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\MyTDV\\Source\\Repos\\SalesWPFApp\\Ass01Solution_SE151417\\DataAccess\\BusinessObjects.csproj": {
-              "projectPath": "C:\\Users\\MyTDV\\Source\\Repos\\SalesWPFApp\\Ass01Solution_SE151417\\DataAccess\\BusinessObjects.csproj"
+            "C:\\Users\\MyTDV\\source\\repos\\SalesWPFApp\\Ass01Solution_SE151417\\DataAccess\\BusinessObjects.csproj": {
+              "projectPath": "C:\\Users\\MyTDV\\source\\repos\\SalesWPFApp\\Ass01Solution_SE151417\\DataAccess\\BusinessObjects.csproj"
             }
           }
         }

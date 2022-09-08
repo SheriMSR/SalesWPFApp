@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\MyTDV\Source\Repos\SalesWPFApp\Ass01Solution_SE151417\SalesWPFApp\obj\Debug\net5.0-windows\
+C:\Users\MyTDV\source\repos\SalesWPFApp\Ass01Solution_SE151417\SalesWPFApp\obj\Debug\net5.0-windows\
 SalesWPFApp
 none
 false
 TRACE;DEBUG;NET;NET5_0;NETCOREAPP
-C:\Users\MyTDV\Source\Repos\SalesWPFApp\Ass01Solution_SE151417\SalesWPFApp\App.xaml
-11407045341
+C:\Users\MyTDV\source\repos\SalesWPFApp\Ass01Solution_SE151417\SalesWPFApp\App.xaml
+5-1732345773
 
-51397895320
-214-63607331
-MainWindow.xaml;
+9663044050
+2231725982834
+MainWindow.xaml;WindowLogin.xaml;WindowMembers.xaml;WindowOrders.xaml;WindowProducts.xaml;
 
-False
+True
 

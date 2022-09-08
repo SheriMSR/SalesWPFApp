@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "edvwfkqwC1YRQuFeTFjgMKMIS3GFhF7tjM/0Xnc33WirFefe5YA2Tyhir4tbKA/5/sKfZQXI4zAeUILa0okprg==",
+  "dgSpecHash": "HTpB0XuQWIfGmPqSGpwoDORBqGhOTbDkqzoU0pp8CSyeKIGn0QcMnzew9pCEgYooqAcELomVhZpyays3cVIeMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MyTDV\\Source\\Repos\\SalesWPFApp\\Ass01Solution_SE151417\\DataAccess\\BusinessObjects.csproj",
+  "projectFilePath": "C:\\Users\\MyTDV\\source\\repos\\SalesWPFApp\\Ass01Solution_SE151417\\DataAccess\\BusinessObjects.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MyTDV\\.nuget\\packages\\automapper\\5.2.0\\automapper.5.2.0.nupkg.sha512",
     "C:\\Users\\MyTDV\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
