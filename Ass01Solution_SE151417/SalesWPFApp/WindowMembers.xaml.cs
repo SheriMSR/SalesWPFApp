@@ -1,4 +1,6 @@
-﻿using System;
+﻿using BusinessObject.Entity;
+using DataAccess;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,9 +21,23 @@ namespace SalesWPFApp
     /// </summary>
     public partial class WindowMembers : Window
     {
-        public WindowMembers()
+        IMemberRepository _memberRepository;
+        public WindowMembers(IMemberRepository repository)
         {
             InitializeComponent();
+            _memberRepository = repository;
         }
+
+        //private Member GetMemberObject()
+        //{
+        //    Member member = null;
+        //    try
+        //    {
+        //        member = new Member
+        //        {
+        //            MemberId = int.Parse(txtMemberId.text)
+        //        }
+        //    }
+        //}
     }
 }

@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Ass01Solution_SE151417",
+    "\\Ass01Solution_SE151417\\BusinessObject",
+    "\\Ass01Solution_SE151417\\SalesWPFApp"
   ],
+  "SelectedNode": "\\Ass01Solution_SE151417\\SalesWPFApp\\App.xaml",
   "PreviewInSolutionExplorer": false
 }

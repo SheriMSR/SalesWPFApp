@@ -37,15 +37,8 @@ namespace SalesWPFApp
 
         private void OnStartup(object sender, StartupEventArgs e)
         {
-            var windowMember = serviceProvider.GetService<WindowMembers>();
+            var windowMember = serviceProvider.GetService<WindowProducts>();
             windowMember.Show();
-
-            var windowOrder = serviceProvider.GetService<WindowOrders>();
-            windowOrder.Show();
-
-            var windowProduct = serviceProvider.GetService<WindowProducts>();
-            windowProduct.Show();
-
         }
     }
 }

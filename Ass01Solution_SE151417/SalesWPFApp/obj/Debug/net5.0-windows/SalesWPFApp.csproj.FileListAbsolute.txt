@@ -137,3 +137,4 @@ C:\Users\MyTDV\source\repos\SalesWPFApp\Ass01Solution_SE151417\SalesWPFApp\obj\D
 C:\Users\MyTDV\source\repos\SalesWPFApp\Ass01Solution_SE151417\SalesWPFApp\obj\Debug\net5.0-windows\WindowMembers.baml
 C:\Users\MyTDV\source\repos\SalesWPFApp\Ass01Solution_SE151417\SalesWPFApp\obj\Debug\net5.0-windows\WindowOrders.baml
 C:\Users\MyTDV\source\repos\SalesWPFApp\Ass01Solution_SE151417\SalesWPFApp\obj\Debug\net5.0-windows\WindowProducts.baml
+C:\Users\MyTDV\source\repos\SalesWPFApp\Ass01Solution_SE151417\SalesWPFApp\bin\Debug\net5.0-windows\appsettings.json
