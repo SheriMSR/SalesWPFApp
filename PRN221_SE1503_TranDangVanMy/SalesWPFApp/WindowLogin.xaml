@@ -1,0 +1,18 @@
+﻿<Window x:Class="SalesWPFApp.WindowLogin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SalesWPFApp"
+        mc:Ignorable="d"
+        Title="WindowLogin" Height="450" Width="800">
+    <Grid Background="#FF54BAB9">
+        <Label x:Name="lblLoginPage" Content="Sale Management" HorizontalAlignment="Center" Margin="0,88,0,0" VerticalAlignment="Top" FontSize="72" FontFamily="Cascadia Code SemiBold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Foreground="#FFF7ECDE"/>
+        <Label x:Name="lblEmail" Content="Email" HorizontalAlignment="Left" Margin="239,230,0,0" VerticalAlignment="Top" FontFamily="Cascadia Code" FontWeight="Bold" Foreground="#FFF7ECDE" FontSize="20"/>
+        <Label x:Name="lblPassword" Content="Password" HorizontalAlignment="Left" Margin="221,278,0,0" VerticalAlignment="Top" Foreground="#FFF7ECDE" FontFamily="Cascadia Code" FontWeight="Bold" FontSize="20"/>
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Margin="340,234,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="266" Height="25" FontFamily="Cascadia Code"/>
+        <TextBox x:Name="txtPassword" HorizontalAlignment="Left" Margin="340,282,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="266" Height="25" FontFamily="Cascadia Code"/>
+        <Button x:Name="btnLogin" Content="Login" HorizontalAlignment="Center" Margin="0,345,0,0" VerticalAlignment="Top" Height="24" Width="120" FontFamily="Cascadia Code" Background="#FFF7ECDE" Foreground="#FF54BAB9" Click="btnLogin_click"/>
+
+    </Grid>
+</Window>
